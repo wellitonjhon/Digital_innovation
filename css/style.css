@@ -1,0 +1,28 @@
+body{
+    font: 20px arial, sans-serif;
+    color: blue;
+}
+
+.navbar{
+    background: rebeccapurple;
+}
+
+.quem-somos{
+    background: orchid;
+}
+
+.margin{
+    padding-top: 30px;
+}
+
+.office{
+    width: 400px;
+    height: 400px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bg-footer{
+    background: slategrey;
+    padding-bottom: 15px;
+}
